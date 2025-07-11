@@ -1,5 +1,3 @@
-# Guitar-tab-extraction---prototype-with-dynamic-prompting
-
 # Guitar Tab Extraction - Prototype with Dynamic Prompting
 
 This project is a prototype for extracting guitar tabs from PDF documents using multimodal large language models (LLMs) and computer vision techniques. The workflow demonstrates dynamic prompting, iterative feedback, and integration with Google Gemini and Ultralytics for image analysis.
